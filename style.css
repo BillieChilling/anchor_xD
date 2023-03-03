@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Oswald:wght@200&family=Tilt+Neon&family=Tilt+Prism&family=Tilt+Warp&display=swap');
+
+body
+{
+    margin: 0;
+    transition: .4s;
+   
+}
+
+.nindow
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(19, 33, 86, 1);
+    background-image: linear-gradient(327deg, rgba(19, 33, 86, 1) 0%, rgba(14, 14, 31, 1) 100%);
+}
+
+.window
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+}
+
+p
+{
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1
+{
+    font-size: 50px;
+    color: #fff;
+    font-family: 'Tilt Prism', cursive;}
+
