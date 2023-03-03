@@ -3,7 +3,7 @@
 body
 {
     margin: 0;
-    transition: .4s;
+    user-select: none;
    
 }
 
