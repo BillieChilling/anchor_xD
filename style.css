@@ -43,3 +43,15 @@ h1
     color: #fff;
     font-family: 'Tilt Prism', cursive;}
 
+a
+{
+    color: rgb(3, 51, 221);
+    text-decoration: none;
+    transition: .4s;
+}
+
+a:hover{
+    color: rgb(139, 165, 255);
+   
+    
+}
